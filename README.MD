@@ -1,0 +1,1 @@
+This repository provides a more comprehensive translation solution for the game Fistful of Frags, opening up the translation interface, where people could translate more information in the game with only one translation file.
